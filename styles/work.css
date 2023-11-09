@@ -1,0 +1,42 @@
+* {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    height: 700px;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: right;
+    align-items: center;
+    background-image: url(../images/banner/banner1.png);
+    background-size: cover;
+}
+
+.text {
+    text-align: right;
+    margin: 0 200px;
+    align-items: center;
+
+}
+
+.banner-title {
+    font-size: 40px;
+}
+
+.banner-des {
+    color: darkslategrey;
+}
+
+.btn-primary {
+    height: 64px;
+    margin-top: 5px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;
+    background: #F15B22;
+    border-radius: 5px;
+
+}
