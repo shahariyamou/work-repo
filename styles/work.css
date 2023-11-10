@@ -40,3 +40,59 @@
     border-radius: 5px;
 
 }
+
+.second {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.image {
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.second-text {
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+/* third section */
+
+.third-heading {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.logo {
+    display: flex;
+    margin: 100px 200px;
+    justify-content: space-between;
+}
+
+.footer-text {
+    margin: 100px 200px;
+}
+
+.footer-form {
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-left: 100px;
+}
+
+.footer {
+    margin-top: 100px;
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+}
+
+.footer-btn {
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    color: #F15B22;
+    background-color: #FFFFFF;
+}
